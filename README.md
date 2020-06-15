@@ -1,2 +1,2 @@
-# SandovalJaime.github.io
+# Ipeic.github.io
 GitHub Pages
